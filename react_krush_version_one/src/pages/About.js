@@ -1,5 +1,5 @@
 import React from 'react';
-import '../../src/App'
+import '../App'
 
 export default function Products() {
     return( 
