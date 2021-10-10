@@ -4,7 +4,7 @@ import '../../src/App'
 export default function Products() {
     return( 
         <h1 className='products'>
-            PRODUCTS
+            About
         </h1>
     );
 }

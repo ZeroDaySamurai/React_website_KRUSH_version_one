@@ -4,7 +4,7 @@ import '../../src/App'
 export default function SignUp() {
     return( 
         <h1 className='sign-up'>
-            SIGN UP
+            Contact
         </h1>
     );
 }
