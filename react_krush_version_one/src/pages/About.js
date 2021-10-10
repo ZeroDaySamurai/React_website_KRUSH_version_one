@@ -1,9 +1,9 @@
 import React from 'react';
 import '../App'
 
-export default function Products() {
+export default function About() {
     return( 
-        <h1 className='products'>
+        <h1 className='about'>
             About
         </h1>
     );
