@@ -10,34 +10,34 @@ function Cards() {
                 <div className="cards__wrapper">
                     <ul className="cards__items">
                         <CardItem
-                            src='images/img-3.jpg'
+                            src='images/img-17.jpg'
                             text='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
                             label='Websites'
                             path='/services'
                         />
                         <CardItem
-                            src='images/img-2.jpg'
+                            src='images/img-18.jpg'
                             text='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
-                            label='Applications'
+                            label='Mobile Applications'
                             path='/services'
                         />
                     </ul>
 
                     <ul className="cards__items">
                         <CardItem
-                            src='images/img-4.jpg'
+                            src='images/img-12.jpg'
                             text='Lorem ipsum dolor sit amet, consectetur adipiscing eli.'
                             label='Custom Software'
                             path='/services'
                         />
                         <CardItem
-                            src='images/img-8.jpg'
+                            src='images/img-13.jpg'
                             text='Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
                             label='Consultation'
                             path='/services'
                         />
                         <CardItem
-                            src='images/img-9.jpg'
+                            src='images/img-11.jpg'
                             text='Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
                             label='IOT Technology'
                             path='/services'
